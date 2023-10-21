@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1669327174 source:c:\users\mathe\desktop\sistemagestaoerp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1669337819 source:c:\users\mathe\documents\matheus\pim\sistemagestaoerp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1669337819 source:c:\users\mathe\documents\matheus\unip\2º semestre\pim - projeto integrado multidisciplinar 2\sistemagestaoerp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
