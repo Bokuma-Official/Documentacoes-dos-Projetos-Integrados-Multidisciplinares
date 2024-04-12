@@ -9,3 +9,7 @@ Desenvolver um Sistema ERP para a Infraestrutura de Gestão Interna da Startup Q
 
 3º e 4º Semestre:
 Desenvolver um Sistema de Folha de Pagamento para a Empresa de RH e DP Ataron nas Plataformas Desktop, Web e Mobile, utilizando C#, Java, ASP.NET, HTML, CSS e SQL Server.
+
+Vídeo do Projeto do 3º e 4º Semestre:
+
+https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/assets/71728308/f63f77ab-a385-42c6-88c9-75c620eee0c6
