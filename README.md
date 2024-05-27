@@ -16,7 +16,7 @@ Vídeo do Projeto do 2º Semestre:
 https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/assets/71728308/4ffe88b8-4b07-4339-bced-ccca2e7faf66
 
 3º e 4º Semestre:
-Desenvolver um Sistema de Folha de Pagamento para a Empresa de RH e DP Ataron nas Plataformas Desktop, Web e Mobile, utilizando C#, Java, ASP.NET, HTML, CSS e SQL Server.
+Desenvolver um Sistema de Folha de Pagamento para a Empresa de RH e DP Ataron nas Plataformas Desktop, Web e Mobile, utilizando C#, Java, ASP.NET, HTML, CSS e SQL.
 
 [Documentação do 3º e 4º Semestre](https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/tree/main/3%C2%BA%20e%204%C2%BA%20Semestre)
 
