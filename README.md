@@ -11,7 +11,7 @@ Desenvolver um sistema ERP para a infraestrutura de gestão interna da startup Q
 
 [Documentação do 2º semestre](https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/tree/main/2%C2%BA%20Semestre)
 
-Vídeo do Projeto do 2º semestre:
+Vídeo do projeto do 2º semestre:
 
 https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/assets/71728308/4ffe88b8-4b07-4339-bced-ccca2e7faf66
 
