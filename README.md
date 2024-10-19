@@ -1,5 +1,5 @@
 # Documentacoes-dos-Projetos-Integrados-Multidisciplinares
-Documentações dos projetos integrados multidisciplinares do 1°, 2º, 3º e 4º semestre do ensino superior de Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
+Documentações dos projetos integrados multidisciplinares do 1°, 2º, 3º e 4º semestre do ensino superior de tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
 
 1º semestre:
 Desenvolver uma infraestrutura de tecnologia para a startup Bokuma, que tem seu foco em manutenção preditiva.
