@@ -2,12 +2,12 @@
 Documentações dos projetos integrados multidisciplinares do 1°, 2º, 3º e 4º semestre do ensino superior de Tecnólogo em Análise e Desenvolvimento de Sistemas na UNIP.
 
 1º semestre:
-Desenvolver uma infraestrutura de tecnologia para a Startup Bokuma, que tem seu foco em manutenção preditiva.
+Desenvolver uma infraestrutura de tecnologia para a startup Bokuma, que tem seu foco em manutenção preditiva.
 
 [Documentação do 1º semestre](https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/tree/main/1%C2%BA%20Semestre)
 
 2º semestre:
-Desenvolver um sistema ERP para a infraestrutura de gestão interna da Startup Quinotek, utilizando a linguagem C.
+Desenvolver um sistema ERP para a infraestrutura de gestão interna da startup Quinotek, utilizando a linguagem C.
 
 [Documentação do 2º semestre](https://github.com/Bokuma-Official/Documentacoes-dos-Projetos-Integrados-Multidisciplinares/tree/main/2%C2%BA%20Semestre)
 
